@@ -4,7 +4,12 @@ My first telegram bot (@transpostingbot), and first python project ever made aim
 ## How to use
 
 * Install requirements
-* Insert your bot token and Reddit API in "credentials.json"
+* Insert your bot token in "credentials.json"
+
+## Optional requirements
+
+* Install SoX in order to use /spectral command
+* Add your Reddit API to "credentials.json" in order to use /meme
 
 ## Command list
 
