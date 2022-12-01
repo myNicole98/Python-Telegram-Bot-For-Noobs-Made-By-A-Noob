@@ -18,10 +18,7 @@ def unsplash(update, context):
 
         return y, line_heights
 
-    '''Font type and other variables. font_type works natively on Windows. 
-    I recommend using NotoColorEmoji if you're on Linux '''
-
-    font_type = "fnt/Symbola.ttf"
+    font_type = "fnt/sans-jp-emojionecolor_merged.ttf"
     W, H = 1920, 1080
     fontsize = 1
     V = 80
