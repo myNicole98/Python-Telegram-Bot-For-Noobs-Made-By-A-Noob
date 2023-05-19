@@ -1,4 +1,4 @@
-# Trans Handybot
+# Python Telegram Bot For Noobs Made By A Noob
 A Telegram bot written in Python https://t.me/transpostingbot <br/>
 Python version: **3.10**
 
