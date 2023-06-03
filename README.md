@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 <img src=assets/logo.png></img>
+=======
+# Python Telegram Bot For Noobs Made By A Noob
+A Telegram bot written in Python https://t.me/transpostingbot <br/>
+Python version: **3.10**
+>>>>>>> 1edb8e8d29fe601aa43332655aa4c0ea855d2448
 
 ## About
 A Telegram bot written in Python. Official repository of <a href=https://t.me/transpostingbot>Trans Handybot</a> <br/>
