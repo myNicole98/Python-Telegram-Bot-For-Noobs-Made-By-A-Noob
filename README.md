@@ -1,4 +1,7 @@
+<h3 align="center">
 <img src=assets/logo.png></img>
+</h3>
+
 ## About
 A Telegram bot written in Python. Official repository of <a href=https://t.me/transpostingbot>Trans Handybot</a> <br/>
 This bot was made with no particular purpose, it's  an old project made for personal learning.
