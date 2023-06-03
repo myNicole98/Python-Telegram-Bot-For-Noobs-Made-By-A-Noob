@@ -1,16 +1,22 @@
-# Trans Handybot
-A Telegram bot written in Python https://t.me/transpostingbot <br/>
-Python version: **3.10**
+<img src=assets/logo.png></img>
 
-## How to use
+## About
+A Telegram bot written in Python. Official repository of <a href=https://t.me/transpostingbot>Trans Handybot</a> <br/>
+This bot was made with no particular purpose, it's  an old project made for personal learning.
 
-* Install python requirements: `pip install -r requirements.txt`
-* Insert your bot token in "credentials.json"
+## Install
+
+* Install python requirements: 
+
+```pip install -r requirements.txt```
 
 ## Optional requirements
 
 * **SoX**: required for /spectral command
 * **Reddit API keys**: required in "credentials.json" for /meme command
+
+## Getting Started
+* Append your bot token in "credentials.json"
 
 ## Command list
 
