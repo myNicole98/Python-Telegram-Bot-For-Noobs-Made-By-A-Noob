@@ -1,4 +1,4 @@
-from commands import start, help, trans, owo, zalgos, doggo, inspire, spectral, meme, unsplash, tweet, christmas, pap, slap, aouguri
+from commands import start, help, trans, owo, zalgos, doggo, pisi, inspire, spectral, meme, unsplash, tweet, christmas, pap, slap, aouguri
 from telegram.ext import CommandHandler, ConversationHandler, MessageHandler, Filters, Updater
 import json
 
@@ -22,6 +22,7 @@ help_handler = CommandHandler('help', help.help)
 trans_handler = CommandHandler('trans', trans.trans)
 owo_handler = CommandHandler('owo', owo.owo)
 doggo_handler = CommandHandler('doggo', doggo.doggo)
+pisi_handler = CommandHandler('pisi', pisi.pisi)
 spectral_handler = CommandHandler('spectral', spectral.spectral)
 zalgo_handler = CommandHandler('zalgo', zalgos.zalgos)
 meme_handler = CommandHandler('meme', meme.meme)
@@ -51,6 +52,7 @@ dispatcher.add_handler(help_handler)
 dispatcher.add_handler(trans_handler)
 dispatcher.add_handler(owo_handler)
 dispatcher.add_handler(doggo_handler)
+dispatcher.add_handler(pisi_handler)
 dispatcher.add_handler(spectral_handler)
 dispatcher.add_handler(zalgo_handler)
 dispatcher.add_handler(meme_handler)
